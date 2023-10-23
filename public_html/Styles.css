@@ -1,0 +1,44 @@
+body{
+    Text-align: Center;
+    margin:0;
+}
+H1{
+    Color:white;
+    background-color:red;
+    padding: 30px;
+    margin:0;
+}
+h2{
+    font-size:25px;
+    color:red;
+}
+.imagen{
+    width:160px;
+    height:160px;
+}
+.enlaces a{
+    display:block;
+    padding:5px 0;
+    text-decoration:none;
+    color:black;
+}
+.enlaces a:hover{
+    color:Blue;
+}
+h3{
+    color:yellowgreen;
+    padding:5px 0;
+}
+footer{
+    background-color:red;
+    color:white;
+    padding:30px;
+    margin:0;
+}
+p{
+    line-height:2;
+}
+ul{
+    list-style-type:none;
+    padding:0;
+}
